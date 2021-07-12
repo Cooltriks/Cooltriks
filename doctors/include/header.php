@@ -68,25 +68,19 @@
               <li class="nav-item">
                 <a class="nav-link" href="managedoctors.php">
                   <span data-feather="users"></span>
-                  Manage Doctor's
+                 Profile
                 </a>
               </li>
               <li class="nav-item">
                 <a class="nav-link" href="manageservices.php">
                   <span data-feather="shopping-cart"></span>
-                  Manage Services
-                </a>
-              </li>
-              <li class="nav-item">
-                <a class="nav-link" href="allusers.php">
-                  <span data-feather="user"></span>
-                  All Users
+                  Your Services
                 </a>
               </li>
               <li class="nav-item">
                 <a class="nav-link" href="contactus.php">
                   <span data-feather="bar-chart-2"></span>
-                  Contact Us massages
+                  Feedback
                 </a>
               </li>
             </ul>
